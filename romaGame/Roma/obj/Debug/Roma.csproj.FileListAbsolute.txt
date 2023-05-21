@@ -1,0 +1,8 @@
+C:\Users\moovs\Source\Repos\romaGame\Roma\bin\Debug\Roma.exe.config
+C:\Users\moovs\Source\Repos\romaGame\Roma\bin\Debug\Roma.exe
+C:\Users\moovs\Source\Repos\romaGame\Roma\bin\Debug\Roma.pdb
+C:\Users\moovs\Source\Repos\romaGame\Roma\obj\Debug\Roma.csproj.AssemblyReference.cache
+C:\Users\moovs\Source\Repos\romaGame\Roma\obj\Debug\Roma.csproj.SuggestedBindingRedirects.cache
+C:\Users\moovs\Source\Repos\romaGame\Roma\obj\Debug\Roma.csproj.CoreCompileInputs.cache
+C:\Users\moovs\Source\Repos\romaGame\Roma\obj\Debug\Roma.exe
+C:\Users\moovs\Source\Repos\romaGame\Roma\obj\Debug\Roma.pdb
